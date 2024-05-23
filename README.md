@@ -1,6 +1,6 @@
-# Lunch Options Management System
+# Office Lunch Menu Management System
 
-This project is a Lunch Options Management System that allows admins to manage lunch menus and options, and employees to select their lunch choices.
+This project is a Office Lunch Menu Management System that allows admins to manage lunch menus and options, and employees to select their lunch choices.
 
 ## Technologies Used
 
